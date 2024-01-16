@@ -19,6 +19,7 @@ import {
   FaRobot,
   FaBars,
   FaShoppingCart,
+  FaTwitch,
 } from "react-icons/fa";
 
 import { items, tagline } from "../data/data";
@@ -48,6 +49,11 @@ export default function Home() {
         <PayMe />
 
         <div className="w-full flex gap-2 my-2 flex-col items-center justify-center pb-2 lg:pb-10">
+          <Card
+            title={items.twitch.title}
+            icon={<FaTwitch />}
+            url={items.twitch.url}
+          />
           <Card
             title={items.instagram.title}
             icon={<FaInstagram />}

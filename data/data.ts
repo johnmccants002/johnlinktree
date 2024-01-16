@@ -39,17 +39,9 @@ export const items = {
     title: "Instagram",
     url: "https://www.instagram.com/mrjohnwonder/",
   },
-  facebook: {
-    title: "Facebook",
-    url: "https://www.google.com/search?q=youtube+rick+roll&rlz=1C1YTUH_enUS1029US1029&oq=youtube+rick+roll&aqs=chrome..69i57j69i64.2546j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:0c2941ce,vid:eBGIQ7ZuuiU",
-  },
-  youtube: {
-    title: "YouTube",
-    url: "https://www.google.com/search?q=youtube+rick+roll&rlz=1C1YTUH_enUS1029US1029&oq=youtube+rick+roll&aqs=chrome..69i57j69i64.2546j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:0c2941ce,vid:eBGIQ7ZuuiU",
-  },
-  snapchat: {
-    title: "YouTube",
-    url: "https://www.google.com/search?q=youtube+rick+roll&rlz=1C1YTUH_enUS1029US1029&oq=youtube+rick+roll&aqs=chrome..69i57j69i64.2546j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:0c2941ce,vid:eBGIQ7ZuuiU",
+  twitch: {
+    title: "Twitch",
+    url: "https://www.twitch.tv/mrjohnwonder",
   },
 
   discord: {

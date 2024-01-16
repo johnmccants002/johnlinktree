@@ -37,7 +37,7 @@ export const items = {
 
   instagram: {
     title: "Instagram",
-    url: "https://instagram.com/engage_intellect",
+    url: "https://www.instagram.com/mrjohnwonder/",
   },
   facebook: {
     title: "Facebook",

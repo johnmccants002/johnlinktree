@@ -64,6 +64,11 @@ export default function Home() {
             url={items.github.url}
           />
           <Card
+            title={items.pomodevs.title}
+            icon={<FaGlobe />}
+            url={items.pomodevs.url}
+          />
+          <Card
             title={items.showcase.title}
             icon={<FaBars />}
             url={items.showcase.url}

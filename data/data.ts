@@ -56,4 +56,9 @@ export const items = {
     title: "Discord",
     url: "https://discord.gg/tqxmymzy",
   },
+
+  pomodevs: {
+    title: "Pomodoro Coding Community",
+    url: "https://pomodevs.com",
+  },
 };
